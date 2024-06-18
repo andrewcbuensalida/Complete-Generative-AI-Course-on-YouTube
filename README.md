@@ -1,5 +1,5 @@
-https://www.youtube.com/watch?v=8KrTO9bS91s
-
+Following https://www.youtube.com/watch?v=8KrTO9bS91s
+Except that I'm not using google colab. I'm using vs code jupyter notebook.
 
 To get started
 
@@ -25,7 +25,7 @@ In the future, to deactivate venv
 .venv\Scripts\deactivate.bat 
 ```
 
-## Install dependencies
+## Install dependencies. This is not needed if doing a pip install in the notebook
 pip install -r requirements.txt
 
 ## To save dependencies into requirements.txt
