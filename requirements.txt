@@ -38,6 +38,7 @@ fsspec==2024.6.0
 gdown==2.3.1
 google-auth==2.30.0
 googleapis-common-protos==1.63.1
+grandalf==0.8
 greenlet==3.0.3
 grpcio==1.64.1
 h11==0.14.0
@@ -60,11 +61,12 @@ jupyter_core==5.7.2
 kubernetes==30.1.0
 langchain==0.2.5
 langchain-community==0.2.5
-langchain-core==0.2.9
+langchain-core==0.2.19
 langchain-openai==0.1.8
 langchain-pinecone==0.1.1
 langchain-text-splitters==0.2.1
 langchainhub==0.1.20
+langgraph==0.1.8
 langsmith==0.1.81
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
@@ -109,6 +111,7 @@ pyasn1_modules==0.4.0
 pydantic==2.7.4
 pydantic_core==2.18.4
 Pygments==2.18.0
+pyparsing==3.1.2
 pypdf==4.2.0
 PyPika==0.48.9
 pyproject_hooks==1.1.0
